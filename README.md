@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, Paul Javinez. <br>I am Software Developer from the Philippines,<br>Live in San Jose Del Monte Bulacan
+Hello, I'm Paul Javinez👋. <br>Software Developer from the Philippines,<br>Graduated <b>BSIT</b> in Bulacan State University
 
 
 ## 🌐 Socials:
